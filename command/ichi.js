@@ -1615,7 +1615,7 @@ case 'setppgroup': case 'setppgrup': case 'setppgc': {
 case 'tagall': {
   if (!m.isGroup) return m.reply(mess.group)
   if (!isAdmins) return m.reply(mess.admin)
-let teks = `*👥 Tag All By Admin*
+let teks = `*𝕭𝖔𝖙 • Andii ༢࿔ྀ*
  
 🗞️ *Pesan : ${q ? q : 'kosong'}*\n\n`
   for (let mem of participants) {
