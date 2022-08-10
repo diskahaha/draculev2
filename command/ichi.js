@@ -154,7 +154,6 @@ if (!('premium' in users)) users.premium = false
 if (!('premiumTime' in users)) users.premiumTime = 0
 if (!('role' in users)) users.role = 'Beginner'
 if (!('banned' in users)) users.banned = false
-if (!('autolevelup' in users)) users.autolevelup = true
 if (!('atm' in users)) users.atm = 0
 if (!('fullatm' in users)) users.fullatm = 0
 if (!('bank' in users)) users.bank = 0
